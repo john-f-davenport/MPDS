@@ -1,14 +1,14 @@
 ---
 templateKey: blog-archive
-published: true
-schemaType: WebPage
 pageSlug: /blog
 pageTitle: Blog
-metaDescription: '{{client_name}}’s blog'
-header: '{{client_name}}’s Blog'
-subheader: ~
+metaDescription: Blog - John F. Davenport, President, Davenport & Associates
+published: true
+schemaType: WebPage
+header: John F. Davenport’s Blog
+subheader: null
 featuredImage:
-  src: ~
-  alt: ~
-  caption: ~
+  ? src
+  ? alt
+  ? caption
 ---
