@@ -1,5 +1,5 @@
 ---
-templateKey: 'menu-data'
+templateKey: menu-data
 published: false
 menuItems:
   - slug: /
@@ -8,6 +8,4 @@ menuItems:
     label: About
   - slug: /blog/
     label: Blog
-  - slug: /contact/
-    label: Contact
 ---
